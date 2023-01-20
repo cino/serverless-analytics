@@ -1,2 +1,3 @@
-# serverless-analytics
-Google Analytics alternative using only 
+# Serverless Analytics
+
+My latest project.
